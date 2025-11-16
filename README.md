@@ -1,7 +1,6 @@
 # 👋 Hi, I'm **Njoku Shalom Chiamaka**
 
-### Chemical/Petrochemical Engineer | Supply Chain (Planning) | Data & Process Improvement Enthusiast
-
+### Chemical/Petrochemical Engineer | Production (Operations)| Supply Chain (Planning) | Data & Process Improvement Enthusiast
 Welcome to my GitHub portfolio! I am a results‑driven engineer passionate about **process optimization, data analysis, manufacturing operations, and continuous improvement**. My work and learning journey cut across engineering tools, analytics, and technical problem‑solving.
 
 ![Github image](https://github.com/user-attachments/assets/d1d5b176-b6b5-4ecd-8693-0e476a1b7515)
