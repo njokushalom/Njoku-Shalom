@@ -4,7 +4,7 @@
 
 Welcome to my GitHub portfolio! I am a results‑driven engineer passionate about **process optimization, data analysis, manufacturing operations, and continuous improvement**. My work and learning journey cut across engineering tools, analytics, and technical problem‑solving.
 
----![Github image](https://github.com/user-attachments/assets/d1d5b176-b6b5-4ecd-8693-0e476a1b7515)
+![Github image](https://github.com/user-attachments/assets/d1d5b176-b6b5-4ecd-8693-0e476a1b7515)
 
 
 ## 🚀 **About Me**
@@ -85,7 +85,7 @@ Below is a growing list of the work I am building and sharing as I develop my sk
 * **Location:** Lagos, Nigeria
 * **LinkedIn:** (https://www.linkedin.com/in/njoku-shalom-chiamaka-gmapwen-miaeng-707abb291)
 
----![Github image](https://github.com/user-attachments/assets/6c54bacf-f91f-405d-914a-143b193e7812)
+![Github image](https://github.com/user-attachments/assets/6c54bacf-f91f-405d-914a-143b193e7812)
 
 
 ### ⭐ Thank you for visiting my GitHub!
